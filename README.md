@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there 👋, I'm Warisha Ahmed
 
-<!--
-**Warisha77/Warisha77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Cybersecurity student who enjoys learning new technologies and improving my skills every day.
 
-Here are some ideas to get you started:
+### 🚀 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔒 Cybersecurity
+* 🐧 Linux
+* ⚙️ DevOps
+
+### 💡 Interests
+
+* Ethical Hacking
+* System Administration
+* Cloud & Automation
+* Open Source
+
+### 📌 About Me
+
+* 🌱 Always learning and building.
+* 📚 Currently exploring Linux, DevOps, and cybersecurity tools.
+* 🎯 My goal is to build a strong foundation in security and infrastructure.
+
+Thanks for visiting my profile!
